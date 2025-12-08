@@ -2,9 +2,93 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid fd2218c3-17cf-4d7a-810a-baeaf58a762b)
+	(uuid "fd2218c3-17cf-4d7a-810a-baeaf58a762b")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 68.58 69.85)
+		(size 43.18 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09f6e0cf-af80-4f7b-8458-c3eb185fcadf")
+		(property "Sheetname" "shouter"
+			(at 68.58 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "shouter.kicad_sch"
+			(at 68.58 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "picoEMP"
+				(path "/fd2218c3-17cf-4d7a-810a-baeaf58a762b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 71.12)
+		(size 44.45 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5dbe780f-683f-430a-9a79-0a5284783a52")
+		(property "Sheetname" "rp-pico2040"
+			(at 121.92 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rp-pico2040.kicad_sch"
+			(at 121.92 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "picoEMP"
+				(path "/fd2218c3-17cf-4d7a-810a-baeaf58a762b"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

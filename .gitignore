@@ -4,6 +4,9 @@
 *.back
 *bck
 *back
+*saved*
+*-backups
+
 
 ## blocking files
 *.lck
