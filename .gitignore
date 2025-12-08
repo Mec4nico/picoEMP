@@ -1,0 +1,13 @@
+
+## backup files
+*.bck
+*.back
+*bck
+*back
+
+## blocking files
+*.lck
+*.lock
+*lck
+*lock
+
