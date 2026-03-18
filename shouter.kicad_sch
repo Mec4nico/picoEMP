@@ -3635,6 +3635,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C4410"
+			(at 85.09 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a381422a-0dd8-469d-97c9-b244e1732d02")
 		)
@@ -3712,6 +3721,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C17237090"
+			(at 132.08 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c5fbede3-4064-43a1-9df5-752cbcd0c76e")
 		)
@@ -3772,7 +3790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
 			(at 77.47 92.71 0)
 			(effects
 				(font
@@ -3791,6 +3809,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 77.47 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C330237"
 			(at 77.47 92.71 0)
 			(effects
 				(font
@@ -3875,6 +3902,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C17954"
+			(at 184.15 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f96c64a2-4335-4ac5-a777-b7bba41cd7d7")
 		)
@@ -3942,6 +3978,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 158.75 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C17903"
+			(at 158.75 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4023,6 +4068,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C17954"
+			(at 63.5 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb3b4b0b-9b5d-430a-9367-51cdeee24727")
 		)
@@ -4054,7 +4108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5540b2df-9155-4401-9b68-96dcfaac9e37")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR015"
 			(at 107.95 170.18 0)
 			(effects
 				(font
@@ -4110,7 +4164,7 @@
 			)
 			(project "picoEMP"
 				(path "/fd2218c3-17cf-4d7a-810a-baeaf58a762b/09f6e0cf-af80-4f7b-8458-c3eb185fcadf"
-					(reference "#PWR?")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -4143,7 +4197,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
 			(at 44.45 90.17 0)
 			(effects
 				(font
@@ -4162,6 +4216,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 44.45 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C330237"
 			(at 44.45 90.17 0)
 			(effects
 				(font
@@ -4318,6 +4381,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C106147"
+			(at 176.53 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "123c34a8-2efa-4c2b-b060-983e47b9470d")
 		)
@@ -4394,6 +4466,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C4410"
+			(at 87.63 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a885137c-704d-4088-9549-5478c644154d")
 		)
@@ -4461,6 +4542,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 173.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C71198"
+			(at 173.99 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4560,6 +4650,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C50432"
+			(at 153.67 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bc2e4d8-bf8f-4a59-8492-c6013f1389aa")
 		)
@@ -4636,6 +4735,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C51205"
+			(at 115.57 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cc23a46f-79ab-4099-82ce-de7786d8c9b3")
 		)
@@ -4667,7 +4775,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97858be2-2833-4351-8c38-9d9b93e9aea1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR016"
 			(at 120.65 67.31 0)
 			(effects
 				(font
@@ -4723,7 +4831,7 @@
 			)
 			(project "picoEMP"
 				(path "/fd2218c3-17cf-4d7a-810a-baeaf58a762b/09f6e0cf-af80-4f7b-8458-c3eb185fcadf"
-					(reference "#PWR?")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4774,6 +4882,15 @@
 			)
 		)
 		(property "Description" "SMT Gate Drive Transformer, 1:1"
+			(at 130.81 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C581397"
 			(at 130.81 132.08 0)
 			(effects
 				(font
@@ -4864,6 +4981,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" ""
+			(at 207.01 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8615112-8e82-49ab-b173-9c9e4fc1be54")
 		)
@@ -4911,7 +5037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 			(at 173.99 36.83 0)
 			(effects
 				(font
@@ -4930,6 +5056,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C318938"
 			(at 173.99 41.91 0)
 			(effects
 				(font
@@ -4987,7 +5122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
 			(at 214.63 82.55 0)
 			(effects
 				(font
@@ -5006,6 +5141,15 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 214.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" ""
 			(at 214.63 82.55 0)
 			(effects
 				(font
@@ -5092,6 +5236,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C3193927"
+			(at 198.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81b381b2-dd4f-4e53-b24e-968be1cc99a9")
 		)
@@ -5170,6 +5323,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C51205"
+			(at 121.92 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c708ad8d-0892-4ca0-9838-7ac5a86b52af")
 		)
@@ -5201,7 +5363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab663445-0b16-4b72-80ef-dd01b92a0758")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR014"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -5257,7 +5419,7 @@
 			)
 			(project "picoEMP"
 				(path "/fd2218c3-17cf-4d7a-810a-baeaf58a762b/09f6e0cf-af80-4f7b-8458-c3eb185fcadf"
-					(reference "#PWR?")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -5363,7 +5525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 110.49 145.415 0)
 			(effects
 				(font
@@ -5385,6 +5547,15 @@
 			)
 		)
 		(property "Description" "1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2"
+			(at 105.41 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C37130"
 			(at 105.41 143.51 0)
 			(effects
 				(font
@@ -5472,6 +5643,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C1409"
+			(at 77.47 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "471cb868-cd38-4097-ab03-018389328c56")
 		)
@@ -5520,7 +5700,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
 			(at 78.74 143.51 0)
 			(effects
 				(font
@@ -5539,6 +5719,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 78.74 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C330237"
 			(at 78.74 143.51 0)
 			(effects
 				(font
@@ -5623,6 +5812,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C17944"
+			(at 148.59 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "916ecbad-5d5f-4317-9538-3a2061b96101")
 		)
@@ -5671,7 +5869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 107.95 94.615 0)
 			(effects
 				(font
@@ -5693,6 +5891,15 @@
 			)
 		)
 		(property "Description" "1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2"
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C37130"
 			(at 102.87 92.71 0)
 			(effects
 				(font
@@ -5780,6 +5987,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C24497"
+			(at 120.65 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "de3dd464-c849-4d40-aac0-6c5b70fa5f1f")
 		)
@@ -5846,6 +6062,15 @@
 			)
 		)
 		(property "Description" "SMT Gate Drive Transformer, 1:1"
+			(at 130.81 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C581397"
 			(at 130.81 87.63 0)
 			(effects
 				(font
@@ -5934,6 +6159,15 @@
 				(hide yes)
 			)
 		)
+		(property "PART_NUMBER_LCSC" "C17903"
+			(at 64.77 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90b4e11b-6ce2-42ce-af12-b98af73e764c")
 		)
@@ -5983,7 +6217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
 			(at 172.085 132.08 0)
 			(effects
 				(font
@@ -6003,6 +6237,15 @@
 		)
 		(property "Description" "60V 1A Schottky Barrier Rectifier Diode, DO-41"
 			(at 176.53 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_NUMBER_LCSC" "C891584"
+			(at 176.53 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
