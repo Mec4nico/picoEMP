@@ -4498,13 +4498,13 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 173.99 50.8 90)
+		(at 173.99 50.8 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6d389940-32a4-465c-a5ca-d84d36aebe59")
 		(property "Reference" "R2"
 			(at 173.99 44.45 90)
